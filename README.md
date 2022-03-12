@@ -1,2 +1,2 @@
 
-<p>Sistema se nhas feito em java para uma atividade da faculdade</p> 
+<p>Sistema de senhas feito em java e sql para a diciplina de linguagem de programação</p> 
